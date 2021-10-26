@@ -9,6 +9,10 @@ using Microsoft.Extensions.Configuration;
 using Microsoft.Extensions.DependencyInjection;
 using Microsoft.Extensions.Hosting;
 
+using Entprog_Finals_Unwind.Data;
+using Microsoft.EntityFrameworkCore;
+using Entprog_Finals_Unwind.Models;
+
 namespace Entprog_Finals_Unwind
 {
     public class Startup
@@ -23,7 +27,13 @@ namespace Entprog_Finals_Unwind
         // This method gets called by the runtime. Use this method to add services to the container.
         public void ConfigureServices(IServiceCollection services)
         {
+            services.AddDbContext<ApplicationDbContext>(option =>
+            option.UseSqlServer(Configuration.GetConnectionString("MyConnection")));
+
+            services.AddDefaultIdentity<ApplicationUser>().AddEntityFrameworkStores<ApplicationDbContext>();
+
             services.AddControllersWithViews();
+            services.AddRazorPages();
         }
 
         // This method gets called by the runtime. Use this method to configure the HTTP request pipeline.
@@ -51,6 +61,7 @@ namespace Entprog_Finals_Unwind
                 endpoints.MapControllerRoute(
                     name: "default",
                     pattern: "{controller=Home}/{action=Index}/{id?}");
+                endpoints.MapRazorPages();
             });
         }
     }
