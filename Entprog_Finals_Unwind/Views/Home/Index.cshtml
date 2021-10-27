@@ -1,8 +1,28 @@
-﻿@{
+﻿
+@{
     ViewData["Title"] = "Home Page";
 }
+<html>
+<body>
+    <form action="https://localhost:44391/Identity/Account/Register?returnUrl=%2F">
 
-<div class="text-center">
-    <h1 class="display-4">Welcome</h1>
-    <p>Learn about <a href="https://docs.microsoft.com/aspnet/core">building Web apps with ASP.NET Core</a>.</p>
-</div>
+
+        <button type="submit" class="btn btn-primary">Log in</button>
+   
+
+        <div class="text-center">
+            <h4 class="display-4">Welcome to Unwind</h4>
+            <br />
+            <h1 class="display-4">
+                "Welcome to our relaxation site, please help yourself or create
+                and account if you still don't have one"
+            </h1>
+            <button type="submit" class="btn btn-primary">Get Started</button>
+
+        </div>
+    </form>
+</body>
+
+
+</html>
+
