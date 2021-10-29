@@ -14,6 +14,7 @@ namespace Entprog_Finals_Unwind.Data
             : base(options)
         {
         }
+        public DbSet<Music> Music { get; set; }
 
     }
 }
