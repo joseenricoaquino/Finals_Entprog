@@ -18,6 +18,10 @@ namespace Entprog_Finals_Unwind.Controllers
             _logger = logger;
         }
 
+        public IActionResult Aboutus()
+        {
+            return View();
+        }
         public IActionResult Index()
         {
             return View();
