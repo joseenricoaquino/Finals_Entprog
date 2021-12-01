@@ -9,7 +9,7 @@
 </head>
 <body>
     <header>
-        <nav class="navbar navbar-expand-sm navbar-toggleable-sm navbar-light bg-white border-bottom box-shadow mb-3">
+        <nav class="navbar navbar-expand-sm navbar-toggleable-sm navbar-light bg-blue border-bottom box-shadow mb-3">
             <div class="container">
                 <a class="navbar-brand" asp-area="" asp-controller="Home" asp-action="Index">Unwind</a>
                 <button class="navbar-toggler" type="button" data-toggle="collapse" data-target=".navbar-collapse" aria-controls="navbarSupportedContent"
@@ -30,6 +30,12 @@
                         <li class="nav-item">
                             <a class="nav-link text-dark" asp-area="" asp-controller="Music" asp-action="Index">Play Music</a>
                         </li>
+                    </ul>
+                    <ul class="form-inline my-2 my-lg-0">
+                        <li class="nav-item">
+                            <form action="https://localhost:44391/Identity/Account/Logout?">
+                                <button type="submit" class="btn btn-primary">Logout</button>
+                            </form>
                     </ul>
                 </div>
             </div>

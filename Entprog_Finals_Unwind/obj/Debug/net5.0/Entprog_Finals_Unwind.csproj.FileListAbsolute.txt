@@ -667,3 +667,4 @@ C:\Users\Aries\Source\Repos\joseenricoaquino\Finals_Entprog\Entprog_Finals_Unwin
 C:\Users\Aries\Source\Repos\joseenricoaquino\Finals_Entprog\Entprog_Finals_Unwind\obj\Debug\net5.0\Razor\Views\Music\Edit.cshtml.g.cs
 C:\Users\Aries\Source\Repos\joseenricoaquino\Finals_Entprog\Entprog_Finals_Unwind\obj\Debug\net5.0\Razor\Views\Music\Index.cshtml.g.cs
 C:\Users\Aries\Source\Repos\joseenricoaquino\Finals_Entprog\Entprog_Finals_Unwind\obj\Debug\net5.0\Razor\Views\Shared\_LoginPartial.cshtml.g.cs
+C:\Users\Aries\source\repos\joseenricoaquino\Finals_Entprog\Entprog_Finals_Unwind\obj\Debug\net5.0\Razor\Views\Home\Exercise.cshtml.g.cs
