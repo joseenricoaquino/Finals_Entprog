@@ -1,20 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\cocoy\\source\\repos\\joseenricoaquino\\Finals_Entprog\\Entprog_Finals_Unwind\\Entprog_Finals_Unwind.csproj": {}
+    "C:\\Users\\Aries\\Source\\Repos\\joseenricoaquino\\Finals_Entprog\\Entprog_Finals_Unwind\\Entprog_Finals_Unwind.csproj": {}
   },
   "projects": {
-    "C:\\Users\\cocoy\\source\\repos\\joseenricoaquino\\Finals_Entprog\\Entprog_Finals_Unwind\\Entprog_Finals_Unwind.csproj": {
+    "C:\\Users\\Aries\\Source\\Repos\\joseenricoaquino\\Finals_Entprog\\Entprog_Finals_Unwind\\Entprog_Finals_Unwind.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\cocoy\\source\\repos\\joseenricoaquino\\Finals_Entprog\\Entprog_Finals_Unwind\\Entprog_Finals_Unwind.csproj",
+        "projectUniqueName": "C:\\Users\\Aries\\Source\\Repos\\joseenricoaquino\\Finals_Entprog\\Entprog_Finals_Unwind\\Entprog_Finals_Unwind.csproj",
         "projectName": "Entprog_Finals_Unwind",
-        "projectPath": "C:\\Users\\cocoy\\source\\repos\\joseenricoaquino\\Finals_Entprog\\Entprog_Finals_Unwind\\Entprog_Finals_Unwind.csproj",
-        "packagesPath": "C:\\Users\\cocoy\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\cocoy\\source\\repos\\joseenricoaquino\\Finals_Entprog\\Entprog_Finals_Unwind\\obj\\",
+        "projectPath": "C:\\Users\\Aries\\Source\\Repos\\joseenricoaquino\\Finals_Entprog\\Entprog_Finals_Unwind\\Entprog_Finals_Unwind.csproj",
+        "packagesPath": "C:\\Users\\Aries\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Aries\\Source\\Repos\\joseenricoaquino\\Finals_Entprog\\Entprog_Finals_Unwind\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\cocoy\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\Aries\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [

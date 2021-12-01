@@ -655,3 +655,15 @@ C:\Users\cocoy\Source\Repos\joseenricoaquino\Finals_Entprog\Entprog_Finals_Unwin
 C:\Users\cocoy\Source\Repos\joseenricoaquino\Finals_Entprog\Entprog_Finals_Unwind\obj\Debug\net5.0\Razor\Views\Music\Index.cshtml.g.cs
 C:\Users\cocoy\Source\Repos\joseenricoaquino\Finals_Entprog\Entprog_Finals_Unwind\obj\Debug\net5.0\Razor\Views\Music\Create.cshtml.g.cs
 C:\Users\cocoy\Source\Repos\joseenricoaquino\Finals_Entprog\Entprog_Finals_Unwind\obj\Debug\net5.0\Razor\Views\Music\Edit.cshtml.g.cs
+C:\Users\Aries\Source\Repos\joseenricoaquino\Finals_Entprog\Entprog_Finals_Unwind\obj\Debug\net5.0\Razor\Areas\Identity\Pages\Account\Login.cshtml.g.cs
+C:\Users\Aries\Source\Repos\joseenricoaquino\Finals_Entprog\Entprog_Finals_Unwind\obj\Debug\net5.0\Razor\Areas\Identity\Pages\Account\Logout.cshtml.g.cs
+C:\Users\Aries\Source\Repos\joseenricoaquino\Finals_Entprog\Entprog_Finals_Unwind\obj\Debug\net5.0\Razor\Areas\Identity\Pages\Account\Register.cshtml.g.cs
+C:\Users\Aries\Source\Repos\joseenricoaquino\Finals_Entprog\Entprog_Finals_Unwind\obj\Debug\net5.0\Razor\Areas\Identity\Pages\Account\_ViewImports.cshtml.g.cs
+C:\Users\Aries\Source\Repos\joseenricoaquino\Finals_Entprog\Entprog_Finals_Unwind\obj\Debug\net5.0\Razor\Areas\Identity\Pages\_ValidationScriptsPartial.cshtml.g.cs
+C:\Users\Aries\Source\Repos\joseenricoaquino\Finals_Entprog\Entprog_Finals_Unwind\obj\Debug\net5.0\Razor\Areas\Identity\Pages\_ViewImports.cshtml.g.cs
+C:\Users\Aries\Source\Repos\joseenricoaquino\Finals_Entprog\Entprog_Finals_Unwind\obj\Debug\net5.0\Razor\Areas\Identity\Pages\_ViewStart.cshtml.g.cs
+C:\Users\Aries\Source\Repos\joseenricoaquino\Finals_Entprog\Entprog_Finals_Unwind\obj\Debug\net5.0\Razor\Views\Home\Aboutus.cshtml.g.cs
+C:\Users\Aries\Source\Repos\joseenricoaquino\Finals_Entprog\Entprog_Finals_Unwind\obj\Debug\net5.0\Razor\Views\Music\Create.cshtml.g.cs
+C:\Users\Aries\Source\Repos\joseenricoaquino\Finals_Entprog\Entprog_Finals_Unwind\obj\Debug\net5.0\Razor\Views\Music\Edit.cshtml.g.cs
+C:\Users\Aries\Source\Repos\joseenricoaquino\Finals_Entprog\Entprog_Finals_Unwind\obj\Debug\net5.0\Razor\Views\Music\Index.cshtml.g.cs
+C:\Users\Aries\Source\Repos\joseenricoaquino\Finals_Entprog\Entprog_Finals_Unwind\obj\Debug\net5.0\Razor\Views\Shared\_LoginPartial.cshtml.g.cs
