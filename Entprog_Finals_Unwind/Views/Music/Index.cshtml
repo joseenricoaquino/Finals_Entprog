@@ -5,44 +5,38 @@
     Layout = "~/Views/Shared/_Layout.cshtml";
 }
 
-<h1>Index</h1>
+<h1>Play Music</h1>
+<p>Just Relax</p>
+<audio controls>
 
-<p>
-    <a asp-action="Create">Create New</a>
-</p>
-<table class="table">
-    <thead>
-        <tr>
-            <th>
-                @Html.DisplayNameFor(model => model.MusicName)
-            </th>
-            <th>
-                @Html.DisplayNameFor(model => model.DateAdded)
-            </th>
-            <th>
-                @Html.DisplayNameFor(model => model.DateModified)
-            </th>
-            <th></th>
-        </tr>
-    </thead>
-    <tbody>
-@foreach (var Music in Model) {
-        <tr>
-            <td>
-                @Html.DisplayFor(modelMusic => Music.MusicName)
-            </td>
-            <td>
-                @Html.DisplayFor(modelMusic => Music.DateAdded)
-            </td>
-            <td>
-                @Html.DisplayFor(modelMusic => Music.DateModified)
-            </td>
-            <td>
-                <a asp-action="Edit" asp-route-id="@Music.MusicId">Edit</a> |
-                <a asp-action="Delete" asp-route-id="@Music.MusicId"
-                    onclick='return' confirm("Are you sure?");'>Delete</a>
-            </td>
-        </tr>
-}
-    </tbody>
-</table>
+    <source src="https://cdn.pixabay.com/download/audio/2021/11/23/audio_64b2dd1bce.mp3?filename=just-relax-11157.mp3" type="audio/mpeg">
+    Your browser does not support the audio element.
+</audio>
+
+<p>Ambient Piano & Strings</p>
+<audio controls>
+
+    <source src="https://cdn.pixabay.com/download/audio/2021/11/13/audio_cb4f1212a9.mp3?filename=ambient-piano-amp-strings-10711.mp3" type="audio/mpeg">
+
+</audio>
+
+<p>Piano Moment</p>
+<audio controls>
+
+    <source src="https://cdn.pixabay.com/download/audio/2021/10/25/audio_05570f2464.mp3?filename=piano-moment-9835.mp3" type="audio/mpeg">
+
+</audio>
+
+<p>Cali</p>
+<audio controls>
+
+    <source src="https://cdn.pixabay.com/download/audio/2020/10/11/audio_fe4d3bcac9.mp3?filename=cali-1171.mp3" type="audio/mpeg">
+
+</audio>
+
+<p>Acoustic Motivation</p>
+<audio controls>
+
+    <source src="https://cdn.pixabay.com/download/audio/2021/11/26/audio_e20882e29d.mp3?filename=acoustic-motivation-11290.mp3" type="audio/mpeg">
+
+</audio>
